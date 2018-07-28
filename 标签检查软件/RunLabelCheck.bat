@@ -1,0 +1,2 @@
+python check_label_wrong.py
+pause
