@@ -3,6 +3,6 @@
 
 ## 截图
 货柜商品数数软件截图
-![](./screenshots/1.png)
+![](./screenshots/1.PNG)
 数据标签检查软件截图
-![](./screenshots/2.png)
+![](./screenshots/2.PNG)
